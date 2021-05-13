@@ -1,0 +1,1 @@
+rh._.exports({"0":[["What's new in Vantage R2.7"]],"1":[["r2.7"]],"2":[["\n  "],["\n  ","This was release to production environment on June 11th, 2021.","\n\n"]],"3":[["What's new in Vantage R2.7"]],"id":"2"})

@@ -1,0 +1,1 @@
+rh._.exports({"0":[["CR194: Report of Homepage Assets"]],"1":[["r2.5"]],"2":[["\n  ","\n    "],["\n    ","PwC will be retiring the Spark platform and had requested a breakdown of all assets used on any territory homepage to assist with this effort.","\n  ","\n\n"]],"4":[["CR194: Report of Homepage Assets"]],"id":"5"})
