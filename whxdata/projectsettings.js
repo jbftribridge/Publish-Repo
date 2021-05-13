@@ -7,7 +7,7 @@ rh._.exports(defaultTopic);
 rh.consts('DEFAULT_TOPIC', encodeURI("R2.5/CR151_Playlist_Administration.htm"));
 rh.consts('HOME_FILEPATH', encodeURI('index.htm'));
 rh.consts('START_FILEPATH', encodeURI('index.htm'));
-rh.consts('HELP_ID', '9b7bed86-51fa-4a22-9836-95e9d16755fa' || 'preview');
+rh.consts('HELP_ID', '62721752-2b4c-4b99-bfc6-fe98ec71825f' || 'preview');
 rh.consts('LNG_SUBSTR_SEARCH', 0);
 
 model.publish(rh.consts('KEY_LNG_NAME'), "en");
@@ -17,7 +17,7 @@ model.publish(rh.consts('KEY_LNG'), {"Contents":"Contents","Index":"Index","Sear
 model.publish(rh.consts('KEY_HEADER_TITLE'), "Experiencehub Help");
 model.publish(rh.consts('PDF_FILE_NAME'), "");
 model.publish(rh.consts('MAX_SEARCH_RESULTS'), "20");
-model.publish(rh.consts('KEY_SKIN_FOLDER_NAME'), "single_page");
+model.publish(rh.consts('KEY_SKIN_FOLDER_NAME'), "Vantage");
 model.publish(rh.consts('CHAT_API_SESSION_TOKEN'), "");
 model.publish(rh.consts('CHAT_API_PROJ_ID'), "");
 

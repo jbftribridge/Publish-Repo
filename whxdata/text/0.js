@@ -1,1 +1,1 @@
-rh._.exports({"0":[["Enhanced User Profile"]],"1":[["r2.6"]],"2":[["\n  "],["\n\n"]],"3":[["Enahnced User Profile"]],"id":"0"})
+rh._.exports({"0":[["Updated Learning Object Card Design"]],"1":[["r2.6"]],"2":[["\n  "],["\n  "," ","\n\n"]],"3":[["Updated Learning Object Card Design"]],"id":"0"})
