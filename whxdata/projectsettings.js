@@ -7,7 +7,7 @@ rh._.exports(defaultTopic);
 rh.consts('DEFAULT_TOPIC', encodeURI("R2.5/CR151_Playlist_Administration.htm"));
 rh.consts('HOME_FILEPATH', encodeURI('index.htm'));
 rh.consts('START_FILEPATH', encodeURI('index.htm'));
-rh.consts('HELP_ID', 'f06198c9-d6bb-40ad-ae08-9fcb1b723df2' || 'preview');
+rh.consts('HELP_ID', 'b4f2dda9-3e78-4cf8-a758-9f681a907643' || 'preview');
 rh.consts('LNG_SUBSTR_SEARCH', 0);
 
 model.publish(rh.consts('KEY_LNG_NAME'), "en");
