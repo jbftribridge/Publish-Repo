@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Experiencehub Help" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="R2.5\CR151_Playlist_Administration.htm">
+    
+    <topic>
+      R2.5\CR151_Playlist_Administration.htm
+    </topic>
+    
+    <topic>
+      R2.5\CR189_Admin_Role_for_Translation_Manager.htm
+    </topic>
+    
+    <topic>
+      R2.5\CR194_Report_of_Homepage_Assets.htm
+    </topic>
+    
+    <topic>
+      R2.5\CR196A_Updates_to_Skillsoft_Feed.htm
+    </topic>
+    
+    <topic>
+      R2.5\Media_Player.htm
+    </topic>
+    
+    <topic>
+      R2.5\Rich_Text_Editor.htm
+    </topic>
+    
+    <topic>
+      R2.6\Vantage-r2.6.htm
+    </topic>
+    
+    <topic>
+      R2.6\Enhanced_User_Profile.htm
+    </topic>
+    
+    <topic>
+      R2.6\Follow_User.htm
+    </topic>
+    
+    <topic>
+      R2.6\R2.6-share_modal.htm
+    </topic>
+    
+    <topic>
+      R2.6\Updated_Learning_Object_Card_Design.htm
+    </topic>
+    
+    <topic>
+      R2.7\What_s_new_in_Vantage_R2.7.htm
+    </topic>
+    
+    <topic>
+      R2.7\Making_Content_Available_for_Download.htm
+    </topic>
+    
+    <topic>
+      R2.7\Vantage_Native_Application.htm
+    </topic>
+    
+    <topic>
+      R2.7\Downloading_and_Launching_Content_Offline.htm
+    </topic>
+    
+    <topic>
+      Playlists\Playlist_Overview.htm
+    </topic>
+    
+    <topic>
+      Playlists\Public_Playlists_(Discover).htm
+    </topic>
+    
+    <topic>
+      Playlists\Create_Playlists.htm
+    </topic>
+    
+    <topic>
+      Add_to_playlist.htm
+    </topic>
+    
+    <topic>
+      Notification_Email.htm
+    </topic>
+    
+    <topic>
+      new_topic.htm
+    </topic>
+    
+    <topic>
+      Learning_Details_Page.htm
+    </topic>
+    
+    <topic>
+      Learning_Object_Tiles.htm
+    </topic>
+    
+    <topic>
+      Flagged_Comment_Moderation.htm
+    </topic>
+    
+    <topic>
+      Comments.htm
+    </topic>
+    
+    <topic>
+      Reported_user_added_learning.htm
+    </topic>
+    
+    <topic>
+      Ratings.htm
+    </topic>
+    
+    <topic>
+      User_added_learning.htm
+    </topic>
+    
+    <topic>
+      Notifications.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>
